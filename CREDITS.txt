@@ -29,6 +29,7 @@ both possible, and as stable as can be.
       to download MCP separately.
       
 And lastly, the countless community members who have spent time submitting bug reports, 
+Edit: Zeph's A Bitch
 pull requests, and just helping out the community in general. Thank you.
 
 --LexManos
